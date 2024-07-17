@@ -1,0 +1,59 @@
+table{
+    border-color: black;
+    border-style: solid;
+}
+
+#ind1 {
+    background-color: red;
+}
+
+#ind2 {
+    background-color: white;
+}
+
+#ind3 {
+    background-color: green;
+}
+
+#ind4{
+    background-color: grey;
+}
+
+#ind5{
+    background-color: brown;
+    
+}
+
+#ind6{
+    background-color: blue;
+}
+
+#ind7{
+    background-color: violet;
+    
+}
+
+#ind8{
+    background-color: pink;
+}
+
+#ind9{
+    background-color: yellow;
+}
+
+#ind10{
+    background-color: turquoise;
+}
+
+#ind11{
+    background-color: orange;
+}
+
+#ind12{
+    background-color: purple;
+}
+
+#ind13{
+    background-color: black;
+    color: white;
+}

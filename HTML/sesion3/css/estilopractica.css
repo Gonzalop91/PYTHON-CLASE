@@ -1,0 +1,22 @@
+a {
+    background-color: chartreuse;
+}
+
+div {
+    /*comentarioblabla*/
+    background-color: chartreuse;
+    height: 20px;
+    width: 30px;
+    display: inline-block;
+
+
+
+}
+
+#division {
+    margin: 10%;
+    padding: 10%;
+    border-color: black;
+    border-style: solid;
+    overflow: scroll;
+}
